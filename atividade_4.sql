@@ -1,1 +1,0 @@
-SELECT * FROM clientes_deletados_log;
