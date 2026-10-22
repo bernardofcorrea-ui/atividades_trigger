@@ -1,1 +1,0 @@
-update estoque set quantidade = -2 where id = 1;
